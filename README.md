@@ -14,3 +14,22 @@ Features:
     
     ~Large amounts of anime
     
+Usage: 
+First method using python
+
+    1) Install python3 and add pip to enviornment variable.
+    
+    2) Download mpv from https://mpv.io and add it to enviornment variable.
+    
+    3) Git clone this repo or copy and paste MediaScraper-Anime.py file's content to a python file.
+    
+    4) Then invoke the python file from command line ```python MediaScraper-Anime.py``` or directly run it.
+    
+    
+Second method using executable
+
+    1) Download mpv from https://mpv.io and add it to enviornment variable.
+    
+    2) Git clone this repo.
+    
+    3) Then invoke the executable from command line ```MediaScraper-Anime```.
