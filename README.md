@@ -2,7 +2,8 @@
 
 Tool written in python to scrape anime and watch it without advertisment.
 
-Needs https://mpv.io/ to stream anime.
+Needs [Mpv][1]
+  [1]: https://mpv.io/to stream anime.
 
 Features:
     ~Stream/Watch Anime online without ads
