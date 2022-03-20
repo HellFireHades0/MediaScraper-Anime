@@ -2,7 +2,7 @@
 
 Tool written in python to scrape anime and watch it without advertisment.
 
-Needs https://mpv.io/ stream anime.
+Needs [mpv.io] stream anime.
 
 Features:
 
@@ -65,3 +65,4 @@ A complete example:
 
 
 This is way you should search
+[mpv]: https://mpv.io/
