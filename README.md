@@ -61,7 +61,7 @@ A complete example:
     Enter number: 1
     Enter Episode Number between 1-1013: 23
     Enter Quality:[360p, 480p, 720p, 1080p]: 360p
-    Download Current Episode [Y/N]: N
+    Download Current Episode [Y/N]: Y
 
 
 This is way you should search
