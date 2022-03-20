@@ -37,31 +37,31 @@ Second method using executable
 
 A complete example:
 
-Enter Anime Name: one piece
-[1] one piece
-[2] toriko dub
-[3] one piece 3d2y
-[4] one piece dub
-[5] one piece film z
-[6] one piece special
-[7] one piece nami ova
-[8] one piece 3d2y dub
-[9] one piece film gold
-[10] one piece film z dub
-[11] one piece heart of gold
-[12] hungry days aoharu ka yo
-[13] one piece film gold dub
-[14] one piece movie 14 stampede
-[15] one piece straw hat theater
-[16] one piece 3d mugiwara chase
-[17] one piece episode of sorajima
-[18] one piece episode of east blue
-[19] one piece movie 10 strong world
-[20] one piece adventure of nebulandia
-Enter number: 1
-Enter Episode Number between 1-1013: 23
-Enter Quality:[360p, 480p, 720p, 1080p]: 360p
-Download Current Episode [Y/N]: N
+    Enter Anime Name: one piece
+    [1] one piece
+    [2] toriko dub
+    [3] one piece 3d2y
+    [4] one piece dub
+    [5] one piece film z
+    [6] one piece special
+    [7] one piece nami ova
+    [8] one piece 3d2y dub
+    [9] one piece film gold
+    [10] one piece film z dub
+    [11] one piece heart of gold
+    [12] hungry days aoharu ka yo
+    [13] one piece film gold dub
+    [14] one piece movie 14 stampede
+    [15] one piece straw hat theater
+    [16] one piece 3d mugiwara chase
+    [17] one piece episode of sorajima
+    [18] one piece episode of east blue
+    [19] one piece movie 10 strong world
+    [20] one piece adventure of nebulandia
+    Enter number: 1
+    Enter Episode Number between 1-1013: 23
+    Enter Quality:[360p, 480p, 720p, 1080p]: 360p
+    Download Current Episode [Y/N]: N
 
 
 This is way you should search
