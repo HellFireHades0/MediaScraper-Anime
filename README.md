@@ -2,7 +2,7 @@
 
 Tool written in python to scrape anime and watch it without advertisment.
 
-Needs [mpv] stream anime.
+Needs [mpv] to stream anime.
 
 Features:
 
